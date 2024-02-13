@@ -1,3 +1,3 @@
-# 🎨 Color Picker
+Color Picker
 
-Follow the instructions in the workshop to finish the assignment!
+A task is to build a simple color picker.
